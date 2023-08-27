@@ -1,1 +1,3 @@
 My first git doc
+
+Edited by Navya Kumbham
